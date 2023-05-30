@@ -1,0 +1,8 @@
+.project
+__init__.py
+*.pyc
+/logs
+.idea
+.gitlab-ci.yaml
+templates/*
+.vscode
