@@ -1,2 +1,2 @@
-# terraform_demo_gcp
-Projet de test deploiement automatisé sur google 
+# terraform-simple-gcp-instance-scheduler
+Tutorial using Terraform, GCP, Cloud Scheduler, PubSub, Cloud Functions, and Python
